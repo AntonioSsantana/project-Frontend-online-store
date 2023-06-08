@@ -90,6 +90,4 @@ Este projeto foi desenvolvido por um time de 4 pessoas:
 - [Thiago Reis Nascimento](https://github.com/trnasci)
 - [Rodrigo Santiago Gomide  ](https://github.com/rodrigosgomide)
 
-.com/contribuidor4)
-
 Cada um dos contribuidores teve uma participação significativa no desenvolvimento do carrinho de compras.
