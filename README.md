@@ -1,6 +1,6 @@
 # Carrinho de Compras - Projeto Frontend Online Store
 
-Este repositório contém o projeto do carrinho de compras da Frontend Online Store, no qual fui responsável pelo seu desenvolvimento. O projeto foi desenvolvido por um time de 4 pessoas e tem como objetivo permitir que os usuários selecionem produtos e os adicionem ao carrinho, além de fornecer funcionalidades de filtragem.
+Este repositório contém o projeto do carrinho de compras, no qual fui um dos responsáveis pelo seu desenvolvimento. O projeto foi desenvolvido por um time de 4 pessoas e tem como objetivo permitir que os usuários selecionem produtos e os adicionem ao carrinho, além de fornecer funcionalidades de filtragem.
 
 ## Dependências
 
